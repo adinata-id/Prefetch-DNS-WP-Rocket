@@ -1,7 +1,7 @@
 # Prefetch-DNS-WP-Rocket
 Reduce DNS lookups using prefetch DNS on WP Rocket
 
-List of Url:[Click Here](https://github.com/adinata-id/Prefetch-DNS-WP-Rocket/blob/main/urls.md)
+List of Url:[Click Here](https://raw.githubusercontent.com/adinata-id/Prefetch-DNS-WP-Rocket/main/urls.md)
 
 ## Authors
 
